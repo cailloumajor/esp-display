@@ -1,6 +1,7 @@
 {
     "env": {
-        "IDF_TOOLS_PATH": "~/.espressif"
+        "IDF_TOOLS_PATH": "~/.espressif",
+        "IDF_LIB_PATH": "~/esp/esp-idf-lib"
     },
     "configurations": [
         {
@@ -9,11 +10,13 @@
             "compileCommands": "${workspaceFolder}/build/compile_commands.json",
             "includePath": [
                 "${env:IDF_PATH}/components/**",
+                "${env:IDF_LIB_PATH}/components/**",
                 "${workspaceFolder}/**"
             ],
             "browse": {
                 "path": [
                     "${env:IDF_PATH}/components/**",
+                    "${IDF_LIB_PATH}/components/**",
                     "${workspaceFolder}/**"
                 ],
                 "limitSymbolsToIncludedHeaders": false
