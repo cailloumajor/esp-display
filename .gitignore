@@ -1,5 +1,8 @@
 # Build directory
 build/
 
+# ESP-IDF managed components
+managed_components/
+
 # KiCad lock files
 *.kicad*.lck
