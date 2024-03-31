@@ -1,1 +1,5 @@
+# Build directory
 build/
+
+# KiCad lock files
+*.kicad*.lck
