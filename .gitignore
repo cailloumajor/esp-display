@@ -1,6 +1,8 @@
 # Build directory
 build/
 
+sdkconfig.old
+
 # ESP-IDF managed components
 managed_components/
 
