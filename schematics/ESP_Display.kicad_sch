@@ -5,7 +5,7 @@
 	(uuid "17b1ec26-ea5e-4607-9d09-c3e497ef61d1")
 	(paper "A4")
 	(title_block
-		(title "ESP HID Display")
+		(title "ESP Display")
 	)
 	(lib_symbols
 		(symbol "Device:R"
@@ -2821,7 +2821,7 @@
 			(uuid "46065f05-bf34-41a7-917f-9bb34c02aaa6")
 		)
 		(instances
-			(project "ESP_HID_Diplay"
+			(project "ESP_Display"
 				(path "/17b1ec26-ea5e-4607-9d09-c3e497ef61d1"
 					(reference "DS1")
 					(unit 1)
@@ -2945,7 +2945,7 @@
 			(uuid "c3d8de3a-164f-4c33-8161-e6e38afc12b8")
 		)
 		(instances
-			(project "ESP_HID_Diplay"
+			(project "ESP_Display"
 				(path "/17b1ec26-ea5e-4607-9d09-c3e497ef61d1"
 					(reference "U2")
 					(unit 1)
@@ -3018,7 +3018,7 @@
 			(uuid "d2681f38-a92b-492e-8ead-184ee75b3f01")
 		)
 		(instances
-			(project "ESP_HID_Diplay"
+			(project "ESP_Display"
 				(path "/17b1ec26-ea5e-4607-9d09-c3e497ef61d1"
 					(reference "RV1")
 					(unit 1)
@@ -3088,7 +3088,7 @@
 			(uuid "254623e4-25e7-4529-9292-f337266063f8")
 		)
 		(instances
-			(project "ESP_HID_Diplay"
+			(project "ESP_Display"
 				(path "/17b1ec26-ea5e-4607-9d09-c3e497ef61d1"
 					(reference "R1")
 					(unit 1)
@@ -3158,7 +3158,7 @@
 			(uuid "c8724999-baa2-4c38-afc4-9b54b5cb3612")
 		)
 		(instances
-			(project "ESP_HID_Diplay"
+			(project "ESP_Display"
 				(path "/17b1ec26-ea5e-4607-9d09-c3e497ef61d1"
 					(reference "R2")
 					(unit 1)
@@ -3318,7 +3318,7 @@
 			(uuid "74855308-a715-40d7-8256-a568fe5794ba")
 		)
 		(instances
-			(project "ESP_HID_Diplay"
+			(project "ESP_Display"
 				(path "/17b1ec26-ea5e-4607-9d09-c3e497ef61d1"
 					(reference "U1")
 					(unit 1)

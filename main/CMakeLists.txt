@@ -1,2 +1,2 @@
-idf_component_register(SRCS "esp_hid_display.c"
+idf_component_register(SRCS "main.c"
                     INCLUDE_DIRS ".")

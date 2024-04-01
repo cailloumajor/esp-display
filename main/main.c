@@ -7,7 +7,7 @@
 
 #include <hd44780.h>
 
-static const char* TAG = "ESP_HID_Display";
+static const char* TAG = "ESP_Display";
 
 static uint32_t get_time_sec()
 {
